@@ -1,0 +1,7 @@
+S .
+S src/*
+
+B .
+B src/*
+
+PKG core
